@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            StackMain.RunStackImplementation();
+           BubbleSortMain.RunBubbleSortImplementation();
         }
     }
 }

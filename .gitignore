@@ -6,3 +6,5 @@
 /ImplementationApp/obj
 /ImplementationApp/.vs/ImplementationApp/FileContentIndex
 *.suo
+/.vs
+/ImplementationApp/.vs
