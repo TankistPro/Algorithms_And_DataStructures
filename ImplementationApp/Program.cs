@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-           BubbleSortMain.RunBubbleSortImplementation();
+            BinarySearchMain.RunBinarySearch();
         }
     }
 }
